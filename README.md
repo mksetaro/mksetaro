@@ -35,43 +35,43 @@
 
 ## 🎭 `CHARACTER`
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
 ```
-┌─────────────────────────────────────┐
-│ ╔═══════════════════════════════╗   │
-│ ║   ADVENTURER'S GUILD CARD     ║   │
-│ ╠═══════════════════════════════╣   │
-│ ║                               ║   │
-│ ║  NAME:  Michelangelo Setaro   ║   │
-│ ║  ALIAS: known by many names   ║   │
-│ ║  CLASS: Mechabard             ║   │
-│ ║  TITLE: Lorekeeper of the     ║   │
-│ ║         Automata              ║   │
-│ ║  RACE:  Human                 ║   │
-│ ║  FROM:  The Shire (Southern   ║   │
-│ ║         Italian Countryside)  ║   │
-│ ║  ALIGN: Chaotic Creative      ║   │
-│ ║  LEVEL: Staff Engineer        ║   │
-│ ║                               ║   │
-│ ║  ──── FAMILIAR ────           ║   │
-│ ║  🐗 Hamlet                    ║   │
-│ ║  Loyal boar sidekick.         ║   │
-│ ║  Code assistant, bug tracker, ║   │
-│ ║  and occasional rubber duck.  ║   │
-│ ║  Charges through compile      ║   │
-│ ║  errors headfirst.            ║   │
-│ ║                               ║   │
-│ ║  ──── MULTICLASS ────         ║   │
-│ ║  🎵 Bard .............. Lv14  ║   │
-│ ║  🔧 Artificer ......... Lv12  ║   │
-│ ║  🌿 Druid ............. Lv8   ║   │
-│ ║  📷 Ranger ............ Lv6   ║   │
-│ ║                               ║   │
-│ ╚═══════════════════════════════╝   │
-└─────────────────────────────────────┘
+╔═════════════════════════════════════╗   
+║       ADVENTURER'S GUILD CARD       ║   
+╠═════════════════════════════════════╣   
+║                                     ║ 
+║      NAME:  Michelangelo Setaro     ║   
+║      ALIAS: known by many names     ║   
+║      CLASS: Mechabard               ║   
+║      TITLE: Lorekeeper of the       ║   
+║             Automata                ║   
+║      RACE:  Human                   ║   
+║      FROM:  The Shire (Southern     ║   
+║             Italian Countryside)    ║   
+║      ALIGN: Chaotic Creative        ║   
+║      LEVEL: Staff Engineer          ║   
+║                                     ║   
+║          ──── FAMILIAR ────         ║   
+║       🐗 Hamlet                     ║   
+║       Loyal boar sidekick.          ║   
+║       Code assistant, bug tracker,  ║   
+║       and occasional rubber duck.   ║   
+║       Charges through compile       ║   
+║       errors headfirst.             ║   
+║                                     ║   
+║         ──── MULTICLASS ────        ║   
+║       🎵 Bard .............. Lv10   ║   
+║       🔧 Artificer ......... Lv12   ║   
+║       🌿 Druid ............. Lv8    ║   
+║       📷 Ranger ............ Lv6    ║   
+║                                     ║   
+╚═════════════════════════════════════╝   
+
 ```
 
 </td>
@@ -104,7 +104,8 @@
 ║  Still wanders with a camera.       ║
 ║  Still refuses to sit still.        ║
 ║                                     ║
-║  Motto: "free to be fabulous"       ║
+║  Motto: "free to be fabulous"       ║  
+║                                     ║
 ║                                     ║
 ╚═════════════════════════════════════╝
 ```
@@ -112,6 +113,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
   
