@@ -345,13 +345,24 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Guild-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/michelangelo-setaro/)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-Bardic_Performances-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=1a1b27)](https://soundcloud.com/svillons)
-[![Spotify](https://img.shields.io/badge/Spotify-Playlist_Grimoire-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b27)](https://open.spotify.com/user/11164919997?si=077a1a80d88c4555)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Eye_of_the_Wanderer-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=1a1b27)](https://bearpawangelo.myportfolio.com/)
+<a href="https://open.spotify.com/user/11164919997?si=077a1a80d88c4555">
+  <img src="https://img.shields.io/badge/Spotify-Playlist_Grimoire-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;&nbsp;
+<a href="https://soundcloud.com/svillons">
+  <img src="https://img.shields.io/badge/SoundCloud-Bardic_Performances-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=1a1b27" />
+</a>
 
+<br />
+
+<a href="https://www.linkedin.com/in/michelangelo-setaro/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Guild-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;&nbsp;
+<a href="https://bearpawangelo.myportfolio.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Eye_of_the_Wanderer-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=1a1b27" />
+</a>
 </div>
-
 <br>
 
 <div align="center">
